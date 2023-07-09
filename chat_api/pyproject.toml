@@ -1,13 +1,15 @@
 [tool.poetry]
-name = "chat-api"
+name = "app"
 version = "0.1.0"
 description = ""
 authors = ["Marat Khabibullin <khabibullin.m.m@gmail.com>"]
 readme = "README.md"
-packages = [{include = "chat_api"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+fastapi = "^0.100.0"
+uvicorn = {extras = ["standard"], version = "^0.22.0"}
+transformers = {extras = ["torch"], version = "^4.30.2"}
 
 
 [build-system]
