@@ -58,5 +58,8 @@ ENV FASTAPI_ENV=production
 COPY --from=builder-base $PYSETUP_PATH $PYSETUP_PATH
 COPY ./app /app/
 COPY ./model /model/
+RUN echo ls -la
+RUN pip3 install "transformers[torch]"
 # WORKDIR /
-CMD ["gunicorn", "-k", "uvicorn.workers.UvicornWorker", "app.main:app"]
+# CMD ["gunicorn", "-k", "uvicorn.workers.UvicornWorker", "app.main:app"]
+CMD ["python", "-m", "uvicorn", "app.main:app", "--port", "80"]
