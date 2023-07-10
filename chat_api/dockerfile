@@ -57,7 +57,7 @@ FROM python-base as production
 ENV FASTAPI_ENV=production
 COPY --from=builder-base $PYSETUP_PATH $PYSETUP_PATH
 COPY ./app /app/
-COPY ./model /model/
+# COPY ./model /model/
 ENV PIP_DEFAULT_TIMEOUT=360
 RUN pip3 install "transformers[torch]"
 # RUN apt-get install nvidia-cuda-toolkit nvidia-cuda-toolkit-gcc
