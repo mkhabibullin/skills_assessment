@@ -9,8 +9,10 @@ logging.config.fileConfig(log_file_path)
 logger = logging.getLogger()
 
 logger.info('Model initialization ...')
-tokenizer = AutoTokenizer.from_pretrained('model/')
-model = AutoModelWithLMHead.from_pretrained('model/')
+# tokenizer = AutoTokenizer.from_pretrained('model/')
+# model = AutoModelWithLMHead.from_pretrained('model/')
+tokenizer = AutoTokenizer.from_pretrained('MaratKhabibullin/chat')
+model = AutoModelWithLMHead.from_pretrained('MaratKhabibullin/chat')
 logger.info('Model initialization finished.')
 
 app = FastAPI()
