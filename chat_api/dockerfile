@@ -63,4 +63,5 @@ RUN pip3 install "transformers[torch]"
 # RUN apt-get install nvidia-cuda-toolkit nvidia-cuda-toolkit-gcc
 # WORKDIR /
 # CMD ["gunicorn", "-k", "uvicorn.workers.UvicornWorker", "app.main:app"]
+EXPOSE 80
 CMD ["python", "-m", "uvicorn", "app.main:app", "--port", "80"]
