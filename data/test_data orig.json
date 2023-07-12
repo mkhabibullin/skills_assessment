@@ -1,0 +1,99 @@
+[
+    [
+        "Give me a list of questions about ChatGPT.",
+        ""
+    ],
+    [
+        "Give me a question about ChatGPT.",
+        ""
+    ],
+    [
+        "Give me a question about ChatGPT, except the questions - How is ChatGPT trained? and Can ChatGPT understand and generate responses in multiple languages?.",
+        ""
+    ],
+    [
+        "Give me a question about ChatGPT.",
+        ""
+    ],
+    [
+        "Give me a question about ChatGPT.",
+        ""
+    ],
+
+    [
+        "ChatGPT is primarily used for grnerating text-based responses.",
+        "Correct!"
+    ],
+    [
+        "ChatGPT is primarily used for text grneration.",
+        "Correct!"
+    ],
+    [
+        "ChatGPT is a social media platform for connecting with friends.",
+        "Wrong!"
+    ],
+    [
+        "ChatGPT is an image recognition algorithm.",
+        "Wrong!"
+    ],
+    [
+        "ChatGPT is an image recognition platform.",
+        "Wrong!"
+    ],
+    [
+        "ChatGPT is just for fun.",
+        "Wrong!"
+    ],
+    [
+        "Sorry i don't understand what should i do.",
+        ""
+    ],
+    [
+        "ChatGPT is trained using large amounts of text data from the internet.",
+        "Correct!"
+    ],
+    [
+        "ChatGPT is trained through virtual conversations with human trainers.",
+        "Wrong!"
+    ],
+    [
+        "ChatGPT is trained using reinforcement learning with rewards.",
+        "Wrong!"
+    ],
+    [
+        "ChatGPT can generate responses in multiple languages but its proficiency may vary.",
+        "Correct!"
+    ],
+    [
+        "ChatGPT is limited to English language understanding and generation.",
+        "Wrong!"
+    ],
+    [
+        "ChatGPT can understand and generate responses in all languages with equal accuracy.",
+        "Wrong!"
+    ],
+    [
+        "Fine-tuning helps customize ChatGPT for specific tasks or domains",
+        "Correct!"
+    ],
+    [
+        "Fine-tuning improves the computational efficiency of ChatGPT.",
+        "Wrong!"
+    ],
+    [
+        "Fine-tuning enhances ChatGPT's ability to play video games.",
+        "Wrong!"
+    ],
+    [
+        "ChatGPT does not have its own ideas or opinions but learns from existing data",
+        "Correct!"
+    ],
+    [
+        "ChatGPT has the ability to generate unique ideas and form personal opinions.",
+        "Wrong!"
+    ],
+    [
+        "ChatGPT can generate ideas but they are always based on predefined rules.",
+        "Wrong!"
+    ]
+]

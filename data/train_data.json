@@ -1,0 +1,96 @@
+[
+   [
+      "Which of the following descriptions accurately describes Azure Machine Learning? 1 - A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. 2 - An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. 3 - A cloud-based platform for operating machine learning solutions at scale. A cloud-based platform for operating machine learning solutions at scale.",
+      "Correct. Azure Machine Learning is an Azure service that you can use to manage machine learning model data preparation, training, validation, and deployment. It leverages existing frameworks such as Scikit-Learn, PyTorch, and Tensorflow; and provides a cross-platform platform for operationalizing machine learning in the cloud."
+   ],
+   [
+      "Which of the following descriptions accurately describes Azure Machine Learning? 1 - A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. 2 - An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. 3 - A cloud-based platform for operating machine learning solutions at scale. Third.",
+      "Correct. Azure Machine Learning is an Azure service that you can use to manage machine learning model data preparation, training, validation, and deployment. It leverages existing frameworks such as Scikit-Learn, PyTorch, and Tensorflow; and provides a cross-platform platform for operationalizing machine learning in the cloud."
+   ],
+   [
+      "Which of the following descriptions accurately describes Azure Machine Learning? 1 - A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. 2 - An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. 3 - A cloud-based platform for operating machine learning solutions at scale. 3.",
+      "Correct. Azure Machine Learning is an Azure service that you can use to manage machine learning model data preparation, training, validation, and deployment. It leverages existing frameworks such as Scikit-Learn, PyTorch, and Tensorflow; and provides a cross-platform platform for operationalizing machine learning in the cloud."
+   ],
+   [
+      "Which of the following descriptions accurately describes Azure Machine Learning? 1 - A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. 2 - An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. 3 - A cloud-based platform for operating machine learning solutions at scale. A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow.",
+      "Wrong! Azure Machine Learning is an Azure service that you can use to manage machine learning model data preparation, training, validation, and deployment. It leverages existing frameworks such as Scikit-Learn, PyTorch, and Tensorflow; and provides a cross-platform platform for operationalizing machine learning in the cloud."
+   ],
+   [
+      "Which of the following descriptions accurately describes Azure Machine Learning? 1 - A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. 2 - An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. 3 - A cloud-based platform for operating machine learning solutions at scale. 1",
+      "Wrong! Azure Machine Learning is an Azure service that you can use to manage machine learning model data preparation, training, validation, and deployment. It leverages existing frameworks such as Scikit-Learn, PyTorch, and Tensorflow; and provides a cross-platform platform for operationalizing machine learning in the cloud."
+   ],
+   [
+      "Which of the following descriptions accurately describes Azure Machine Learning? 1 - A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. 2 - An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. 3 - A cloud-based platform for operating machine learning solutions at scale. First",
+      "Wrong! Azure Machine Learning is an Azure service that you can use to manage machine learning model data preparation, training, validation, and deployment. It leverages existing frameworks such as Scikit-Learn, PyTorch, and Tensorflow; and provides a cross-platform platform for operationalizing machine learning in the cloud."
+   ],   
+   [
+      "Which of the following descriptions accurately describes Azure Machine Learning? 1 - A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. 2 - An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. 3 - A cloud-based platform for operating machine learning solutions at scale. An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface.",
+      "Wrong! Azure Machine Learning is an Azure service that you can use to manage machine learning model data preparation, training, validation, and deployment. It leverages existing frameworks such as Scikit-Learn, PyTorch, and Tensorflow; and provides a cross-platform platform for operationalizing machine learning in the cloud."
+   ],
+   [
+      "Which of the following descriptions accurately describes Azure Machine Learning? 1 - A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. 2 - An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. 3 - A cloud-based platform for operating machine learning solutions at scale. 2",
+      "Wrong! Azure Machine Learning is an Azure service that you can use to manage machine learning model data preparation, training, validation, and deployment. It leverages existing frameworks such as Scikit-Learn, PyTorch, and Tensorflow; and provides a cross-platform platform for operationalizing machine learning in the cloud."
+   ],
+   [
+      "Which of the following descriptions accurately describes Azure Machine Learning? 1 - A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. 2 - An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. 3 - A cloud-based platform for operating machine learning solutions at scale. Second.",
+      "Wrong! Azure Machine Learning is an Azure service that you can use to manage machine learning model data preparation, training, validation, and deployment. It leverages existing frameworks such as Scikit-Learn, PyTorch, and Tensorflow; and provides a cross-platform platform for operationalizing machine learning in the cloud."
+   ],
+   [
+      "Which of the following descriptions accurately describes Azure Machine Learning? A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. A cloud-based platform for operating machine learning solutions at scale.",
+      "Wrong! Azure Machine Learning is an Azure service that you can use to manage machine learning model data preparation, training, validation, and deployment. It leverages existing frameworks such as Scikit-Learn, PyTorch, and Tensorflow; and provides a cross-platform platform for operationalizing machine learning in the cloud."
+   ],
+   
+   [
+    "Which edition of Azure Machine Learning workspace should you provision if you only plan to use the graphical Designer tool to train machine learning models - Enterprise or Basic? Enterprise.",
+    "Correct. The visual Designer tool is not available in Basic edition workspaces, so you must create an Enterprise workspace to use it."
+   ],
+   [
+    "Which edition of Azure Machine Learning workspace should you provision if you only plan to use the graphical Designer tool to train machine learning models - Enterprise or Basic? Basic.",
+    "Wrong! The visual Designer tool is not available in Basic edition workspaces, so you must create an Enterprise workspace to use it."
+   ],
+   [
+    "Which edition of Azure Machine Learning workspace should you provision if you only plan to use the graphical Designer tool to train machine learning models - Enterprise or Basic?",
+    "Wrong!"
+   ],
+
+   [
+      "You need a cloud-based development environment that you can use to run Jupyter notebooks that are stored in your workspace. The notebooks must remain in your workspace at all times. 1 - Install Visual Studio Code on your local computer. 2 - Create a Compute Instance compute target in your workspace. 3 - Create a Training Cluster compute target in your workspace. Create a Compute Instance compute target in your workspace.",
+      "Correct. Compute Instances provide a cloud-based development environment that supports Jupyter Notebooks in your workspace. You can save notebooks in the workspace and work on them there."
+   ],
+   [
+      "You need a cloud-based development environment that you can use to run Jupyter notebooks that are stored in your workspace. The notebooks must remain in your workspace at all times. 1 - Install Visual Studio Code on your local computer. 2 - Create a Compute Instance compute target in your workspace. 3 - Create a Training Cluster compute target in your workspace. 2",
+      "Correct. Compute Instances provide a cloud-based development environment that supports Jupyter Notebooks in your workspace. You can save notebooks in the workspace and work on them there."
+   ],
+   [
+      "You need a cloud-based development environment that you can use to run Jupyter notebooks that are stored in your workspace. The notebooks must remain in your workspace at all times. 1 - Install Visual Studio Code on your local computer. 2 - Create a Compute Instance compute target in your workspace. 3 - Create a Training Cluster compute target in your workspace. Second.",
+      "Correct. Compute Instances provide a cloud-based development environment that supports Jupyter Notebooks in your workspace. You can save notebooks in the workspace and work on them there."
+   ],
+   [
+      "You need a cloud-based development environment that you can use to run Jupyter notebooks that are stored in your workspace. The notebooks must remain in your workspace at all times. 1 - Install Visual Studio Code on your local computer. 2 - Create a Compute Instance compute target in your workspace. 3 - Create a Training Cluster compute target in your workspace. Install Visual Studio Code on your local computer.",
+      "Wrong. Compute Instances provide a cloud-based development environment that supports Jupyter Notebooks in your workspace. You can save notebooks in the workspace and work on them there."
+   ],
+   [
+      "You need a cloud-based development environment that you can use to run Jupyter notebooks that are stored in your workspace. The notebooks must remain in your workspace at all times. 1 - Install Visual Studio Code on your local computer. 2 - Create a Compute Instance compute target in your workspace. 3 - Create a Training Cluster compute target in your workspace. 1.",
+      "Wrong. Compute Instances provide a cloud-based development environment that supports Jupyter Notebooks in your workspace. You can save notebooks in the workspace and work on them there."
+   ],
+   [
+      "You need a cloud-based development environment that you can use to run Jupyter notebooks that are stored in your workspace. The notebooks must remain in your workspace at all times. 1 - Install Visual Studio Code on your local computer. 2 - Create a Compute Instance compute target in your workspace. 3 - Create a Training Cluster compute target in your workspace. First.",
+      "Wrong. Compute Instances provide a cloud-based development environment that supports Jupyter Notebooks in your workspace. You can save notebooks in the workspace and work on them there."
+   ],
+   [
+      "You need a cloud-based development environment that you can use to run Jupyter notebooks that are stored in your workspace. The notebooks must remain in your workspace at all times. 1 - Install Visual Studio Code on your local computer. 2 - Create a Compute Instance compute target in your workspace. 3 - Create a Training Cluster compute target in your workspace. Create a Training Cluster compute target in your workspace.",
+      "Wrong. Compute Instances provide a cloud-based development environment that supports Jupyter Notebooks in your workspace. You can save notebooks in the workspace and work on them there."
+   ],
+   [
+      "You need a cloud-based development environment that you can use to run Jupyter notebooks that are stored in your workspace. The notebooks must remain in your workspace at all times. 1 - Install Visual Studio Code on your local computer. 2 - Create a Compute Instance compute target in your workspace. 3 - Create a Training Cluster compute target in your workspace. 3.",
+      "Wrong. Compute Instances provide a cloud-based development environment that supports Jupyter Notebooks in your workspace. You can save notebooks in the workspace and work on them there."
+   ],
+   [
+      "You need a cloud-based development environment that you can use to run Jupyter notebooks that are stored in your workspace. The notebooks must remain in your workspace at all times. 1 - Install Visual Studio Code on your local computer. 2 - Create a Compute Instance compute target in your workspace. 3 - Create a Training Cluster compute target in your workspace. Third.",
+      "Wrong. Compute Instances provide a cloud-based development environment that supports Jupyter Notebooks in your workspace. You can save notebooks in the workspace and work on them there."
+   ],
+   [
+      "You need a cloud-based development environment that you can use to run Jupyter notebooks that are stored in your workspace. The notebooks must remain in your workspace at all times. 1 - Install Visual Studio Code on your local computer. 2 - Create a Compute Instance compute target in your workspace. 3 - Create a Training Cluster compute target in your workspace.",
+      "Wrong. Compute Instances provide a cloud-based development environment that supports Jupyter Notebooks in your workspace. You can save notebooks in the workspace and work on them there."
+   ]
+]

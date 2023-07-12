@@ -45,7 +45,7 @@ const ChatUI = () => {
       return;
     }
     let [second_to_last_message, last_message] = messages.slice(-2);
-    fetch(api + '?data=' + second_to_last_message["text"] +  last_message["text"])
+    fetch(api + '/message?data=' + second_to_last_message["text"] +  last_message["text"])
        .then((response) => response.json())
        .then((data) => {
           messages.push({

@@ -1,0 +1,14 @@
+[
+   [
+    "Which of the following descriptions accurately describes Azure Machine Learning? A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. A cloud-based platform for operating machine learning solutions at scale.",
+    "Correct. Azure Machine Learning is an Azure service that you can use to manage machine learning model data preparation, training, validation, and deployment. It leverages existing frameworks such as Scikit-Learn, PyTorch, and Tensorflow; and provides a cross-platform platform for operationalizing machine learning in the cloud."
+   ],
+   [
+    "Which of the following descriptions accurately describes Azure Machine Learning? A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow.",
+    "Wrong. Azure Machine Learning is an Azure service that you can use to manage machine learning model data preparation, training, validation, and deployment. It leverages existing frameworks such as Scikit-Learn, PyTorch, and Tensorflow; and provides a cross-platform platform for operationalizing machine learning in the cloud."
+   ],
+   [
+    "Which of the following descriptions accurately describes Azure Machine Learning? A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface.",
+    "Wrong. Azure Machine Learning is an Azure service that you can use to manage machine learning model data preparation, training, validation, and deployment. It leverages existing frameworks such as Scikit-Learn, PyTorch, and Tensorflow; and provides a cross-platform platform for operationalizing machine learning in the cloud."
+   ]
+]

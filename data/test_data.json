@@ -1,0 +1,18 @@
+[
+    [
+      "Which of the following descriptions accurately describes Azure Machine Learning? 1 - A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. 2 - An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. 3 - A cloud-based platform for operating machine learning solutions at scale. A cloud-based platform for operating machine learning solutions at scale.",
+      "Correct."
+    ],
+    [
+      "Which of the following descriptions accurately describes Azure Machine Learning? 1 - A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. 2 - An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. 3 - A cloud-based platform for operating machine learning solutions at scale. 3.",
+      "Correct."
+    ],
+    [
+      "Which of the following descriptions accurately describes Azure Machine Learning? 1 - A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. 2 - An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. 3 - A cloud-based platform for operating machine learning solutions at scale. A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow.",
+      "Wrong."
+    ],
+    [
+      "Which of the following descriptions accurately describes Azure Machine Learning? 1 - A Python library that you can use as an alternative to common machine learning frameworks like Scikit-Learn, PyTorch, and Tensorflow. 2 - An application for Microsoft Windows that enables you to create machine learning models by using a drag and drop interface. 3 - A cloud-based platform for operating machine learning solutions at scale. 2",
+      "Wrong."
+    ]
+ ]
